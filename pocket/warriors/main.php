@@ -45,6 +45,6 @@ class Tag extends PluginBase{
                             $this->getServer()->getFile()->("healthstatus.yml")      
                                $this->getServer()->getFile()->("healthstatus.yml"); ("healthamount")  ; 
                               $this->getServer()->getPlayer()->setHealth("X") //dependant on health amount 
-                    
+                    $issuer->sendMessage("Dont touch that!");
                     
                   
