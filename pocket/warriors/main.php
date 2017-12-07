@@ -1,7 +1,4 @@
 <?php
-
-
-<?php
 namespace Wantedkillerss\hardtobreak;
 use pocketmine\plugin\PluginBase;
 use pocketmine\plugin\Plugin;
